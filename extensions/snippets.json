@@ -45,7 +45,7 @@
                   "ico": "i[class='ico-$#']*",
                   "logo": "a.logo",
                   "soc": ".socials>ul>li*>a>img[src=\"$#\"]",
-                  "slider": ".slider.js-slider>.slider__clip(.slider__slides>.slider__slide",
+                  "slider": ".slider.js-slider>.slider__clip>.slider__slides>.slider__slide",
                   "tabs": ".tabs.js-tabs>.tabs__head(nav.tabs__nav)+.tabs__body>.tab",
                   "acc": ".accordion.js-accordion>.accordion__section*>.accordion__head(h3{$#})+.accordion__body",
                   "_radio": "input[type=\"radio\" name=\"\" id=\"field-$#\"]",
